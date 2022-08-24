@@ -1,10 +1,10 @@
-#detalle de la tarea
+# Detalle de la tarea
 
-#tipo de tarea
+# Tipo de tarea
 
-[] feature
-[] chro
-[] style
-[] perf
-[] testing
-[] hotfix
+- [] feature
+- [] chro
+- [] style
+- [] perf
+- [] testing
+- [] hotfix
