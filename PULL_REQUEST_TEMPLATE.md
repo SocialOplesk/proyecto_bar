@@ -2,9 +2,9 @@
 
 # Tipo de tarea
 
-- [] feature
-- [] chro
-- [] style
-- [] perf
-- [] testing
-- [] hotfix
+- [ ] feature
+- [ ] chro
+- [ ] style
+- [ ] perf
+- [ ] testing
+- [ ] hotfix
